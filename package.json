@@ -1,0 +1,24 @@
+{
+  "name": "foodnutritionskill",
+  "version": "1.0.0",
+  "description": "Food nutrition lookup Alexa skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarshgautamnyu/FoodNutritionSkill.git"
+  },
+  "author": "Utkarsh Gautam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkarshgautamnyu/FoodNutritionSkill/issues"
+  },
+  "homepage": "https://github.com/utkarshgautamnyu/FoodNutritionSkill#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "winston": "^2.4.3"
+  }
+}
